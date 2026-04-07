@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "files": {
+    "model": "template_model.ply",
+    "dense": "dense_correspondences.mrk.json",
+    "sparse": "sparse_landmarks.mrk.json",
+    "ssm": "ssm_model.npz"
+  },
+  "counts": {
+    "dense": 469,
+    "sparse": 51
+  }
+}
